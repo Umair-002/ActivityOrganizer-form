@@ -1,0 +1,20 @@
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.exe.config
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.exe
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.pdb
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.AssemblyReference.cache
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.Form1.resources
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.Properties.Resources.resources
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.GenerateResource.cache
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.CoreCompileInputs.cache
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.exe
+D:\Computer science\Year2\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.pdb
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.exe.config
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.exe
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\bin\Debug\AssessedWeek4TaskB.pdb
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.AssemblyReference.cache
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.Form1.resources
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.Properties.Resources.resources
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.GenerateResource.cache
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.csproj.CoreCompileInputs.cache
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.exe
+D:\Computer science\Year2\1.data structure\Assignment\ExerciseWeek 4\TaskB\TaskB\AssessedWeek4TaskB\obj\Debug\AssessedWeek4TaskB.pdb
